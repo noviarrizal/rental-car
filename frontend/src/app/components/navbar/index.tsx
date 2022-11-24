@@ -10,10 +10,10 @@ const NavbarContainer = styled.div`
         max-w-screen-2xl
         flex
         flex-row
+        justify-between
         items-center
         lg:pl-12
         lg:pr-12
-        justify-between
     `};
 `;
 
